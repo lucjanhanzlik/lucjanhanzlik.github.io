@@ -1,0 +1,8 @@
+---
+layout: post
+year: 2016
+title:  "Cryptographic Protocols for Modern Identification Documents"
+authors: Lucjan Hanzlik
+venue: PhD Thesis, Institute of Computer Science Polish Academy of Sciences, 2016
+
+---

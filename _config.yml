@@ -1,0 +1,35 @@
+# Site metadata
+keywords: Cryptography, Privacy, Digital Signatures, Post-Quantum Cryptography, CISPA Helmholtz Center for Information Security, Saarbrücken, Germany
+description: Dr. Lucjan Hanzlik, CISPA Helmholtz Center for Information Security, Saarbrücken, Germany
+title: Dr. Lucjan Hanzlik | CISPA Helmholtz Center for Information Security
+
+author: Lucjan Hanzlik
+authorimg: images/lucjan_web.png
+authoroccup: Tenure-track Faculty
+
+inst: CISPA Helmholtz Center for Information Security
+insturl: https://cispa.de
+#uni: Uni
+#uniurl: https:
+
+#stackex: users/3352097/drlecter
+#bluesky: drl3c7er
+orcid: 0009-0006-1941-693X
+linkedin: lucjan.hanzlik
+dblp: hd/s/Hanzlik:Lucjan
+scholar: xV54a20AAAAJ
+keybase: lucjanhanzlik
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+collections:
+  - preprints
+  - proc
+  - articles
+  - theses
+exclude:
+  - Gemfile
+  - Gemfile.lock
