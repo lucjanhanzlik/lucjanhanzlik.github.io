@@ -1,0 +1,17 @@
+---
+layout: post
+year: 2020
+title: "Single Secret Leader Election"
+authors: Dan Boneh, Saba Eskandarian, Lucjan Hanzlik, Nicola Greco
+venue: "2nd ACM Conference on Advances in Financial Technologies - AFT 2020"
+vurl: https://aftconf.github.io/aft20/index.html
+pdf: https://eprint.iacr.org/2020/025.pdf
+web: https://eprint.iacr.org/2020/025
+pub: https://dl.acm.org/doi/10.1145/3419614.3423258
+bib: https://dblp.org/rec/conf/aft/BonehEHG20.html?view=bibtex
+
+---
+
+---
+
+

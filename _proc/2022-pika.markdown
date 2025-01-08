@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2022
+title: Practical Round-Optimal Blind Signatures in the Standard Model
+authors: Rutchathon Chairattana-Apirom, Lucjan Hanzlik, Julian Loss, Anna Lysyanskaya, Benedikt Wagner
+venue: "42th Annual International Cryptology Conference - CRYPTO 2022"
+vurl: https://crypto.iacr.org/2022/
+pdf: https://eprint.iacr.org/2022/007.pdf
+web: https://eprint.iacr.org/2022/007
+pub: https://doi.org/10.1007/978-3-031-15982-4_1
+bib: https://dblp.org/rec/conf/crypto/Chairattana-Apirom22.html?view=bibtex
+
+---
+

@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2022
+title: Explainable Arguments
+authors: Lucjan Hanzlik, Kamil Kluczniak
+venue: "26th International Conference on Financial Cryptography and Data Security - FC 2022"
+vurl: https://fc22.ifca.ai
+pdf: https://publications.cispa.saarland/3694/1/main.pdf
+pub: https://doi.org/10.1007/978-3-031-18283-9_4
+bib: https://dblp.org/rec/conf/fc/HanzlikK22.html?view=bibtex
+
+---
+
