@@ -10,9 +10,5 @@ venue: 28th International Conference on Financial Cryptography and Data Security
 vurl: https://fc24.ifca.ai
 vatt: (accepted)
 ---
----
-
-
----
 
 
