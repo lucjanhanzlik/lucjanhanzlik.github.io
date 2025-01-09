@@ -1,9 +1,9 @@
 ---
 layout: post
 year: 2023
-title: McFly: Verifiable Encryption to the Future Made Practical
+title: "McFly: Verifiable Encryption to the Future Made Practical"
 authors: Nico Döttling, Lucjan Hanzlik, Bernardo Magri, Stella Wohnig
-venue: 27th International Conference on Financial Cryptography and Data Security - FC 2023
+venue: "27th International Conference on Financial Cryptography and Data Security - FC 2023"
 vurl: https://fc23.ifca.ai
 pdf: https://eprint.iacr.org/2022/433.pdf
 web: https://eprint.iacr.org/2022/433
