@@ -1,0 +1,17 @@
+---
+layout: post
+year: 2022
+title: "How Not to Handle Keys: Timing Attacks on FIDO Authenticator Privacy"
+authors: Michal Kepkowski, Lucjan Hanzlik, Ian D. Wood, Mohamed Ali Kâafar
+venue: "Proceedings on Privacy Enhancing Technologies"
+pdf: https://petsymposium.org/popets/2022/popets-2022-0129.pdf
+web: https://arxiv.org/abs/2205.08071
+vurl: https://petsymposium.org
+pub: https://doi.org/10.56553/popets-2022-0129
+bib: https://dblp.org/rec/journals/popets/KepkowskiHWK22.html?view=bibtex
+talk: https://www.youtube.com/watch?v=jtsPMk0_W9E
+
+---
+
+
+

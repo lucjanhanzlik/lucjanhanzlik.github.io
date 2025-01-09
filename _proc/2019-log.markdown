@@ -1,0 +1,17 @@
+---
+layout: post
+year: 2019
+title: "Ring Signatures: Logarithmic-Size, No Setup - from Standard Assumptions"
+authors: Michael Backes, Nico Döttling, Lucjan Hanzlik, Kamil Kluczniak, Jonas Schneider
+venue: "38nd Annual International Conference on the Theory and Applications of Cryptographic Techniques - EUROCRYPT 2019"
+vurl: https://eurocrypt.iacr.org/2019/
+pdf: https://eprint.iacr.org/2019/196.pdf
+web: https://eprint.iacr.org/2019/196
+pub: https://doi.org/10.1007/978-3-030-17659-4_10
+bib: https://dblp.org/rec/conf/eurocrypt/0001DHKS19.html?view=bibtex
+---
+
+
+---
+
+
