@@ -1,0 +1,17 @@
+---
+layout: post
+year: 2024
+title: "M&M'S: Mix and Match Attacks on Schnorr-Type Blind Signatures with Repetition"
+authors: Khue Do, Lucjan Hanzlik, Eugenio Paracucchi
+venue: "43nd Annual International Conference on the Theory and Applications of Cryptographic Techniques - EUROCRYPT 2024"
+vurl: https://eurocrypt.iacr.org/2024/
+pdf: https://eprint.iacr.org/2023/1588.pdf
+web: https://eprint.iacr.org/2023/1588
+pub: https://doi.org/10.1007/978-3-031-58751-1_13
+bib: https://dblp.org/rec/conf/eurocrypt/DoHP24.html?view=bibtex
+---
+
+
+---
+
+
