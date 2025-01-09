@@ -1,0 +1,17 @@
+---
+layout: post
+year: 2023
+title: "On the Security of Rate-limited Privacy Pass"
+authors: Hien Chu, Khue Do, Lucjan Hanzlik
+venue: "30th ACM Conference on Computer and Communications Security - ACM CCS 2023"
+vurl: https://www.sigsac.org/ccs/CCS2023/
+pdf: https://eprint.iacr.org/2023/1805.pdf
+web: https://eprint.iacr.org/2023/1805
+pub: https://doi.org/10.1145/3576915.3616619
+bib: https://dblp.org/rec/conf/ccs/ChuDH23.html?view=bibtex
+
+---
+
+---
+
+
