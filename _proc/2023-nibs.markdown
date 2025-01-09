@@ -1,0 +1,18 @@
+---
+layout: post
+year: 2023
+title: "UNon-interactive Blind Signatures for Random Messages"
+authors: Lucjan Hanzlik
+venue: "42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques - EUROCRYPT 2023"
+vurl: https://eurocrypt.iacr.org/2023/
+pdf: https://eprint.iacr.org/2023/388.pdf
+web: https://eprint.iacr.org/2023/388
+talk: publications/talks/NIBS.pdf
+pub: https://doi.org/10.1007/978-3-031-30589-4_25
+bib: https://dblp.org/rec/conf/eurocrypt/Hanzlik23.html?view=bibtex
+---
+
+
+---
+
+
