@@ -1,0 +1,17 @@
+---
+layout: post
+year: 2023
+title: "Token meets Wallet: Formalizing Privacy and Revocation for FIDO2"
+authors: Lucjan Hanzlik, Julian Loss, Benedikt Wagner
+venue: "44th IEEE Symposium on Security and Privacy - S&P 2023"
+vurl: https://sp2023.ieee-security.org
+pdf: https://eprint.iacr.org/2022/084.pdf
+web: https://eprint.iacr.org/2022/084
+pub: https://doi.org/10.1109/SP46215.2023.10179373
+bib: https://dblp.org/rec/conf/sp/HanzlikLW23.html?view=bibtex
+---
+
+
+---
+
+
