@@ -1,0 +1,15 @@
+---
+layout: post
+year: 2025
+title: "Non-interactive Anonymous Tokens with Private Metadata Bit"
+authors: Foteini Baldimtsi, Lucjan Hanzlik, Quan Nguyen, Aayush Yadav
+venue: IACR Cryptology ePrint Archive Report 2025/430
+pdf: https://eprint.iacr.org/2025/430.pdf
+web: https://eprint.iacr.org/2025/430
+
+---
+
+
+---
+
+
