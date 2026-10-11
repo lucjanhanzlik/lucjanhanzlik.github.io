@@ -1,11 +1,14 @@
 ---
 layout: post
-year: 2025
+year: 2026
+pin_order: 2
 title: "Non-interactive Anonymous Tokens with Private Metadata Bit"
 authors: Foteini Baldimtsi, Lucjan Hanzlik, Quan Nguyen, Aayush Yadav
-venue: IACR Cryptology ePrint Archive Report 2025/430
+venue: "33rd ACM Conference on Computer and Communications Security - ACM CCS 2026 (to appear)"
+vurl: https://www.sigsac.org/ccs/CCS2026/
 pdf: https://eprint.iacr.org/2025/430.pdf
 web: https://eprint.iacr.org/2025/430
+bib: https://dblp.org/rec/journals/iacr/BaldimtsiHNY25.html?view=bibtex
 
 ---
 

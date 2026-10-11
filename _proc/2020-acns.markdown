@@ -3,6 +3,7 @@ layout: post
 year: 2020
 title: "TrollThrottle - Raising the Cost of Astroturfing"
 authors: Ilkan Esiyok, Lucjan Hanzlik, Robert Künnemann, Lena Marie Budde, Michael Backes
+nonalphabetical: true
 venue: "18th International Conference on Applied Cryptography and Network Security - ACNS 2020"
 vurl: https://sites.google.com/di.uniroma1.it/ACNS2020
 pdf: https://publications.cispa.saarland/3160/1/trollthrottle-conf.pdf

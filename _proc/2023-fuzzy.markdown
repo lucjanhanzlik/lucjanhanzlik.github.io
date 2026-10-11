@@ -3,6 +3,7 @@ layout: post
 year: 2023
 title: "Post Quantum Fuzzy Stealth Signatures and Applications"
 authors: Sihang Pu, Sri Aravinda Krishnan Thyagarajan, Nico Döttling, Lucjan Hanzlik
+nonalphabetical: true
 venue: "30th ACM Conference on Computer and Communications Security - ACM CCS 2023"
 vurl: https://www.sigsac.org/ccs/CCS2023/
 pdf: https://eprint.iacr.org/2023/1148.pdf

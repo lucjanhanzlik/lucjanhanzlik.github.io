@@ -1,8 +1,8 @@
 ---
 layout: post
 year: 2022
-title: Explainable Arguments
-authors: Lucjan Hanzlik, Kamil Kluczniak
+title: A Framework for Constructing Single Secret Leader Election from MPC
+authors: Michael Backes, Pascal Berrang, Lucjan Hanzlik, Ivan Pryvalov
 venue: "27th European Symposium on Research in Computer Security - ESORICS 2022"
 vurl: https://esorics2022.compute.dtu.dk
 pdf: https://eprint.iacr.org/2022/1040.pdf

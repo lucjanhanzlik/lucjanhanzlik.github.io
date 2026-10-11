@@ -1,8 +1,8 @@
   <header>
-  <img width="200" hight="200" src="{{site.authorimg}}" alt="{{site.author}}"/>
+  <img class="profile-photo" width="180" height="180" src="{{site.authorimg}}" alt="{{site.author}}"/>
   <h1 >{{site.author}}</h1>
   <p class="occup">{{site.authoroccup}}</p>
-  <p class="affil"><a href="{{site.uniurl}}">{{site.uni}}</a></p>
+  <p class="affil"><a href="{{site.insturl}}">{{site.inst}}</a></p>
   <ul class="extlinks">
 <!--    <li><a href="https://stackexchange.com/{{site.stackex}}" title="Stack Exchange" target="_blank"><i class="fa-brands fa-stack-exchange"></i></a></li>
     <li><a href="https://bsky.app/{{site.bluesky}}" title="Bluesky" target="_blank"><i class="fa-brands fa-bluesky"></i></a></li> -->
@@ -13,4 +13,5 @@
 <!--    <li><a href="https://keybase.io/{{site.keybase}}" title="Keybase" target="_blank"><i class="fa-brands fa-keybase"></i></a></li> -->
      <li><a href="mailto:hanzlik@cispa.de" title="mail"><i class="fa fa-envelope"></i></a></li>
   </ul>
+  {% include navigation.html %}
 </header>

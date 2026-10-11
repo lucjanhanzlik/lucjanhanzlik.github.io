@@ -1,6 +1,6 @@
 <tr class="pubentry">
   <td>{{post.year}}</td>
-  <td>{{post.authors}} - <b><i>"{{post.title}}"</i></b> - {% if post.vurl %}<a href="{{post.vurl}}">{{post.venue}}</a>{% else %}{{post.venue}}{% endif %}{% if post.vatt %} {{post.vatt}}{% endif %} {% if post.award %} <b style="color:#265396;">({{post.award}})</b>{% endif %}.</td>
+  <td>{{post.authors}}{% if post.nonalphabetical %}<sup>*</sup>{% endif %} - <b><i>"{{post.title}}"</i></b> - {% if post.vurl %}<a href="{{post.vurl}}">{{post.venue}}</a>{% else %}{{post.venue}}{% endif %}{% if post.vatt %} {{post.vatt}}{% endif %}{% if post.award %} <b class="publication-award"><span aria-hidden="true">★</span> {{post.award}}</b>{% endif %}.</td>
   <td>
     <table class="dltable">
       <tr>

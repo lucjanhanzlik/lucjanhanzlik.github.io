@@ -3,6 +3,7 @@ layout: post
 year: 2024
 title: "Delegating FIDO Credentials Using Single-use ECDSA Signatures"
 authors: Wei-Zhu Yeoh, Lucjan Hanzlik, Oliver Valta
+nonalphabetical: true
 venue: "19th ACM ASIA Conference on Computer and Communications Security - ACM ASIACCS 2024"
 vurl: https://asiaccs2024.sutd.edu.sg
 pdf: https://publications.cispa.de/ndownloader/files/47714389

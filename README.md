@@ -8,6 +8,9 @@ To automatically generate the list of publications, the Jekyll post engine is us
   * `year`: Publication year
   * `title`: Title of the publication
   * `authors`: A comma separated list of authors
+  * `nonalphabetical` (optional): Set to `true` to mark non-alphabetical author order with an asterisk.
+  * `award` (optional): An award displayed alongside the publication with a star.
+  * `pin_order` (optional, conference papers): Pin a paper to the top of Conference Papers; smaller numbers appear first. Unpinned papers retain their usual order.
   * `venue`: The publication venue
   * `vurl` (optional): An url for further information about the publication venue
   * `vatt` (optional): Additional attributes for the publication venue

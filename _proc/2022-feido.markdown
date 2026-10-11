@@ -3,6 +3,7 @@ layout: post
 year: 2022
 title: "FeIDo: Recoverable FIDO2 Tokens Using Electronic IDs."
 authors: Fabian Schwarz, Khue Do, Gunnar Heide, Lucjan Hanzlik, Christian Rossow
+nonalphabetical: true
 venue: "29th ACM Conference on Computer and Communications Security - ACM CCS 2022"
 vurl: https://www.sigsac.org/ccs/CCS2022/
 pdf: https://publications.cispa.de/ndownloader/files/43248810 
